@@ -2,6 +2,10 @@
 
 Flutter ClipPath sample.
 
+### Full source code
+
+[Github](https://github.com/maratib/flutter-clip-path)
+
 <table width="100%">
 <tr><td valign="top">
 
